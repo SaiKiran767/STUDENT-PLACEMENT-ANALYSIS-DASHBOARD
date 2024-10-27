@@ -10,3 +10,6 @@
 -	Conduct Gender analysis for the Business Analytics Specialization?
 -	Visualize Regional data and work experience?
 -	Present the data visually where freshers secured average and above CTC?
+
+# DashBoard
+![DashBoard](https://github.com/user-attachments/assets/d6b1ffdf-dcc0-4c96-b838-edc7620d8efd)
